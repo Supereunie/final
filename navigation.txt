@@ -1,0 +1,99 @@
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+
+.container {
+	width: 90.675%;
+	padding-left: 1.1625%;
+	padding-right: 1.1625%;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+
+.teaser {
+width: 45%;
+float:left;
+}
+.mission {
+width: 45%;
+float:left;
+clear: none;
+margin-left: 2.5641%;
+}
+article {
+width: 100%;
+clear: both;
+margin-left: 0;
+}
+}
+
+@media only screen and (min-width: 769px) {
+.container {
+	width: 88.5%;
+	max-width: 1232px;
+	padding-left: 0.75%;
+	padding-right: 0.75%;
+	margin: auto;
+	clear: none;
+	float: none;
+	margin-left: auto;
+}
+
+.teaser {
+width: 32.2033%;
+float:left;
+}
+.mission {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+float:left;
+}
+article {
+width: 32.2033%;
+clear: none;
+margin-left: 1.6949%;
+float:left;
+}
+}
+
+
+
+
+nav{background-color: #CC6616;margin-top: 1.5em;height:2em;	margin-bottom: 15px;}nav ul {    list-style-type: none;  margin: 0;   padding: 0; overflow: hidden;  background-color: #CC6616;width: 100%;}
+li {float: left;}
+li a {display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;}
+.active{background-color: rgba(150,104,27,1.00);}@media screen and (max-width:500px){body ul li{width: 100%;}
+
+
+@media screen and (max-width:480px){
+nav ul li {
+	width: 100%;
+}
+.teaser {
+	margin-top:50px;
+}
+.teaser {
+width: 100%;
+}
+.mission {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+article {
+width: 100%;
+margin-left: 0;
+clear: both;
+}
+
+}
+
+
+
+
+
+
+
+
+
+<nav><ul>  <li><a class="active" href="# ">Home</a></li>  <li><a href="#">News</a></li>  <li><a href="# ">Contact</a></li>  <li><a href="# ">About</a></li></ul></nav>
